@@ -6,7 +6,7 @@ Level: Intermediate
 Technologies: CDI, JAX-RS, JDBC, JBoss, MySQL  
 Summary: The `wpattern-rest-cdi` demonstrate a simple application, bundled and deployed as a WAR, that uses *JAX-RS* and *JDBC* to manage data over a MySQL database.  
 Target Product: WildFly  
-Based on projects of the QuickStart (*loworld-rs*): <https://github.com/wildfly/quickstart/>  
+Based on projects of the Quickstarts (*helloworld-rs*): <https://github.com/wildfly/quickstart/>  
 
 What is it?
 -----------
